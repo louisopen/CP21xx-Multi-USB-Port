@@ -1,6 +1,6 @@
 ## CP21xx Silicon labs. USB2UART adapter used in multi-port USB and fixed COM port number on PC
 
-##### CP21xx 在同一台PC下使用多個COM port 但共用windows driver 不同的COM port各自有固定號碼(fixed COM port number)
+#### CP21xx 在同一台PC下使用多個COM port 但共用windows driver 不同的COM port各自有固定號碼(fixed COM port number)
 
 首先插上設備的USB(想要變更的設備)到PC USB port(只要是使用CP21xx IC 都可以), 目的就是要變更裝置的SN號碼使driver 可以分辨在同一個VID/PID下的USB IC, 如此就可以共用同一個電腦下的同一隻driver可以擁有各自獨立的Port number.
 
