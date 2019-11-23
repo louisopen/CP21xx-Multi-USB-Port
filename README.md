@@ -5,7 +5,7 @@
 
 按原廠指示的確可以完成這樣的訴求:
 
-![原廠連接1]https://www.cubeatsystems.com/ifx-49/resources/datasheets/AN721.pdf
+!(https://www.cubeatsystems.com/ifx-49/resources/datasheets/AN721.pdf)
 
 下載地址:
 
